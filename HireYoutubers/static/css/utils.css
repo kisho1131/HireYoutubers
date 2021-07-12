@@ -5,13 +5,8 @@
 .text-accent {
 	color: var(--accent);
 }
-.top{
-	max-width: 1000px;
-    position: relative;
-    margin: auto;
-}
 
-.top-banner {
+.banner {
 	position: relative;
 }
 .banner img {
